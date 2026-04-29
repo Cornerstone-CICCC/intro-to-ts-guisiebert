@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-ts-guisiebert",
+  "version": "1.0.0",
+  "description": "First TypeScript exercises",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "exercise": "tsc && node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
